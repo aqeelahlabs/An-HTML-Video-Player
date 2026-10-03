@@ -29,7 +29,7 @@ https://aqeelahlabs.github.io/An-HTML-Video-Player/
 
 1. Clone the repository:
 ```
-   git clone https://github.com/aqeelahlabs/YOUR-REPO-NAME.git
+   https://github.com/aqeelahlabs/An-HTML-Video-Player.git
 ```
 2. Open `index.html` in your browser.
 
