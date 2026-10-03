@@ -4,7 +4,7 @@ A simple web page that embeds a video player with multiple format options and a 
 
 ## Live Demo
 
-[View the project](https://aqeelahlabs.github.io/YOUR-REPO-NAME/)
+https://aqeelahlabs.github.io/An-HTML-Video-Player/
 
 ## Features
 
