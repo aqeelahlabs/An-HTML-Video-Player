@@ -1,28 +1,38 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Working with the HTML Video Element</title>
-</head>
-<body>
-  <h1>Working with the HTML Video Element</h1>
-  <video
-    width="640"
-    loop
-    controls
-    muted
-    poster="https://cdn.freecodecamp.org/curriculum/labs/past-event2.jpg">
-    <source
-      src="https://cdn.freecodecamp.org/curriculum/labs/what-is-the-map-method-and-how-does-it-work.mp4"
-      type="video/mp4">
-    <source
-      src="https://cdn.freecodecamp.org/curriculum/labs/mapmethod.webm"
-      type="video/webm">
-    <source
-      src="https://cdn.freecodecamp.org/curriculum/labs/mapmethod.ogg"
-      type="video/ogg">
-<source src="https://cdn.freecodecamp.org/curriculum/labs/mapmethod.mov" type="video/quicktime">  
-  </video>
-</body>
-</html>
+# Working with the HTML Video Element
+
+A simple web page that embeds a video player with multiple format options and a poster image. Built as part of the freeCodeCamp curriculum.
+
+## Live Demo
+
+[View the project](https://aqeelahlabs.github.io/YOUR-REPO-NAME/)
+
+## Features
+
+- A video player with built-in playback controls
+- A poster image shown before the video plays
+- Looping and muted playback
+- Multiple video sources (MP4, WebM, OGG and QuickTime) so the browser can pick a format it supports
+
+## What I Practised
+
+- Structuring a basic HTML5 page
+- Embedding video with the `video` element
+- Using the `width`, `loop`, `controls`, `muted` and `poster` attributes
+- Providing fallback formats with several `source` elements and `type` attributes
+- Making the page responsive with the viewport `meta` tag
+
+## Built With
+
+- HTML5
+
+## Run It Locally
+
+1. Clone the repository:
+```
+   git clone https://github.com/aqeelahlabs/YOUR-REPO-NAME.git
+```
+2. Open `index.html` in your browser.
+
+## Author
+
+Aqeelah, [@aqeelahlabs](https://github.com/aqeelahlabs)
